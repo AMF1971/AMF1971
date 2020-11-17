@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [![linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-marcos-fraga/)](https://www.linkedin.com/in/antonio-marcos-fraga/)
 
 ### Olá! 😄 Bem-vindo ao meu perfil - ### Hello! 😄 Welcome to my profile
-### Hello! 😄 Welcome to my profile
 
 - Eu realmente gosto de aprender - I really like to learn
 
