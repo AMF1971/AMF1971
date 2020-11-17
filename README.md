@@ -19,21 +19,15 @@ Here are some ideas to get you started:
 
 [![linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-marcos-fraga/)](https://www.linkedin.com/in/antonio-marcos-fraga/)
 
-### Olá! 😄 Bem-vindo ao meu perfil
+### Olá! 😄 Bem-vindo ao meu perfil - ### Hello! 😄 Welcome to my profile
 ### Hello! 😄 Welcome to my profile
 
+- Eu realmente gosto de aprender - I really like to learn
 
+- Estou Trabalhando com Business Itelligence para o Agronegócio - I'm Working withBussiness Itelligence for Agribusiness
+ 
+- Atualmente estudando Python (POO) ,  My SQL Workbench, Power BI e Arduino/Rasperry PI (IOT) - Currently studying Python (POO), My SQL Workbench, Power BI and Arduino/Rasperry PI (IOT)
 
-
-- Eu realmente gosto de aprender
-- I really like to learn
-
-- Estou Trabalhando com Business Itelligence para o Agronegócio
-- I'm Working withBussiness Itelligence for Agribusiness
-
-- 
-- Atualmente estudando Python (POO) ,  My SQL Workbench, Power BI e Arduino/Rasperry PI (IOT)
-- Currently studying Python (POO), My SQL Workbench, Power BI and Arduino/Rasperry PI (IOT)
 
 
 
