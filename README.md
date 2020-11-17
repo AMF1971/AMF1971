@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Antonio Marcos Fraga :man_techoagrocomputação
+[![linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-marcos-fraga/)](https://www.linkedin.com/in/antonio-marcos-fraga/)
+
+### Olá! 😄 Bem-vindo ao me perfil
+
+Meu Nome é Antonio Marcos Fraga
+
+- Eu realmente gosto de aprender
+- Estou Trabalhando com Business Itelligence para o Agronegócio
+- Atualmente estudando Python e My SQL Worhbanch
+
+
+
