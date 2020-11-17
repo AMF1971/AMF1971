@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### Olá! 😄 Bem-vindo ao meu perfil
 
-Meu Nome é Antonio Marcos
+
 
 - Eu realmente gosto de aprender
 - Estou Trabalhando com Business Itelligence para o Agronegócio
-- Atualmente estudando Python e My SQL Worhbanch
+- Atualmente estudando Python (POO) ,  My SQL Workbench, Power BI e Arduino
 
 
 
